@@ -1,7 +1,7 @@
 # E-Commerce
 ### [Live Site](https://commerce-js.netlify.app/)
 
-![eCommerce]()
+![eCommerce](https://www.datocms-assets.com/205/1640011361-react-ecommerce-tutorial.png?h=500)
 
 
 
